@@ -1,0 +1,13 @@
+This is a text file,
+which is written by johanespelund.
+
+### Chocolate Granola ###
+
+- 400g oats
+- 70g syrup
+- 25g cocoa powder
+- 50g melted butter
+- 1 tsp salt
+- 50g chopped nuts (e.g. almonds and walnuts)
+
+Mix well and bake on a tray at 150 deg. C for 20 minutes.
